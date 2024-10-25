@@ -1,21 +1,21 @@
 {
-  "prefix": "!",
+  "prefix": "+",
   "adminUIDs": [
-   "your uid"
+   "61567025336294"
   ],
   "moderatorUIDs": [
-    "your uid",
+    "",
     "",
     ""
   ],
-  "botName": "bot name",
+  "botName": "NOVA-XD",
   "ownerName": "Your name",
-  "facebookLink": "fb link",
+  "facebookLink": "https://naugh7y.dev",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
   "restart": true,
-  "restartTime": 50,
+  "restartTime": 120,
   "FCA": "hut-chat-api",
   "loginpanel": {
     "user": "your username in dashboard",
